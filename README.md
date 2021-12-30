@@ -1,4 +1,4 @@
-Live Demo: https://atran25.github.io/Landing-Page/  
+Live Demo: https://atran25.github.io/Maplestory-Landing-Page/
   
 # Landing-Page
 Maplestory Landing Page made with HTML &amp; CSS  
