@@ -130,32 +130,32 @@ button {
 }
 
 /*  */
-.advertisement-container {
+.message-container {
     background-color: #FFE8D6;
     display: flex;
     justify-content: center;
     padding: 75px;
 }
 
-.advertisement {
+.message {
     background-color: #CB997E;
     display: flex;
     padding: 16px 64px;
     border-radius: 10px;
 }
 
-.advertisement-text {
+.message-text {
     flex: 3;
 }
 
-.advertisement-button {
+.message-button {
     display: flex;
     justify-content: center;
     align-items: center;
     flex: 1;
 }
 
-.advertisement-button button {
+.message-button button {
     border: solid #FFE8D6;
 }
 
